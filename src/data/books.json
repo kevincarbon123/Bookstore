@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "name": "Charlotte's Web",
+        "price": 19.99,
+        "category": "Fiction",
+        "description": "A story about a piglet, girl and spider",
+        "imgUrl": "/imgs/charlottesWeb.jpg"
+   
+    },
+
+    {
+        "id": 2,
+        "name": "If You Give A Mouse A Cookie",
+        "price": 13.99,
+        "category": "Fiction",
+        "description": "A story about a curious mouse and his love for cookies",
+        "imgUrl": "/imgs/ifYouGiveAMouseACookie.jpg"
+      
+    },
+
+    {
+        "id": 3,
+        "name": "The Cat In The Hat",
+        "price": 15.99,
+        "category": "Fiction",
+        "description": "A cat and his hat",
+        "imgUrl": "/imgs/theCatInTheHat.png"
+        
+    },
+
+    {
+        "id": 4,
+        "name": "The Giving Tree",
+        "price": 10.99,
+        "category": "Fiction",
+        "description": "A tree that has all to give but does not receive in return",
+        "imgUrl": "/imgs/theGivingTree.jpeg"
+    }
+
+]
